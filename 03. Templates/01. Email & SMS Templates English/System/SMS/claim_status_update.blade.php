@@ -1,0 +1,1 @@
+Hello {USER_NAME}, Your claim status update: Claim ID: {CLAIM_ID}, Status: {CLAIM_STATUS}. Thank you for choosing {COMPANY_NAME}.
