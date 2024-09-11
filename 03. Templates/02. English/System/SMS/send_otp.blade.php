@@ -1,1 +1,0 @@
-{OTP_CODE} is your OTP to verify your account.
